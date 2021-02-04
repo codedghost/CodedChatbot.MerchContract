@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="CodedGhost.RabbitMQTools" Version="1.0.782" />
+    <PackageReference Include="PrintfulLib" Version="1.0.785" />
   </ItemGroup>
 
 </Project>
